@@ -17,7 +17,7 @@ This project is a chatbot application that analyzes the Titanic dataset, providi
 - **Language & Environment:** Python 3.x (virtual environment recommended)
 
 ## Project Structure
-```
+```bash
 titanic_dataset_chat_agent/
 ├── backend.py          # FastAPI backend code with LangChain agent
 ├── app.py              # Streamlit frontend code
