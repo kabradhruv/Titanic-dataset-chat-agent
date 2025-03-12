@@ -1,4 +1,3 @@
-```markdown
 # Titanic Dataset Chatbot
 
 ## Overview
@@ -24,7 +23,6 @@ titanic_dataset_chat_agent/
 ├── titanic_dataset.csv # Titanic dataset CSV file
 ├── static/             # Directory for generated images (e.g., histograms)
 └── README.md           # This file
-```
 
 ## Setup & Installation
 
